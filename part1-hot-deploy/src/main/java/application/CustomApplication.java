@@ -3,7 +3,7 @@ package application;
 /**
  * Created by xiaolin  on 2017/9/12.
  */
-public class CustomApplication {
+public class CustomApplication implements IApplication{
     public void init() {
         System.out.println("TestApplication1-->init");
     }
