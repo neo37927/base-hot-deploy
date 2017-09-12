@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>base-hot-deploy</module>
         <module>part1-hot-deploy</module>
         <module>part2-hot-deploy</module>
     </modules>
